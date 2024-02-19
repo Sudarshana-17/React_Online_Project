@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React_Online_Project%20/static/css/main.94d07cd8.css",
-    "main.js": "/React_Online_Project%20/static/js/main.019491d7.js",
-    "static/js/787.dd71c71f.chunk.js": "/React_Online_Project%20/static/js/787.dd71c71f.chunk.js",
-    "static/media/6.jpg": "/React_Online_Project%20/static/media/6.4bbf881df0097b0872d1.jpg",
-    "static/media/1.jpg": "/React_Online_Project%20/static/media/1.a76905afe6fbce2c2d96.jpg",
-    "static/media/10.jpg": "/React_Online_Project%20/static/media/10.ec0e3aa8b8a528c74d00.jpg",
-    "static/media/5.jpg": "/React_Online_Project%20/static/media/5.55be0ee627b771abdf70.jpg",
-    "index.html": "/React_Online_Project%20/index.html",
-    "main.94d07cd8.css.map": "/React_Online_Project%20/static/css/main.94d07cd8.css.map",
-    "main.019491d7.js.map": "/React_Online_Project%20/static/js/main.019491d7.js.map",
-    "787.dd71c71f.chunk.js.map": "/React_Online_Project%20/static/js/787.dd71c71f.chunk.js.map"
+    "main.css": "/React_Online_Project/%20/static/css/main.94d07cd8.css",
+    "main.js": "/React_Online_Project/%20/static/js/main.f00f9f54.js",
+    "static/js/787.dd71c71f.chunk.js": "/React_Online_Project/%20/static/js/787.dd71c71f.chunk.js",
+    "static/media/6.jpg": "/React_Online_Project/%20/static/media/6.4bbf881df0097b0872d1.jpg",
+    "static/media/1.jpg": "/React_Online_Project/%20/static/media/1.a76905afe6fbce2c2d96.jpg",
+    "static/media/10.jpg": "/React_Online_Project/%20/static/media/10.ec0e3aa8b8a528c74d00.jpg",
+    "static/media/5.jpg": "/React_Online_Project/%20/static/media/5.55be0ee627b771abdf70.jpg",
+    "index.html": "/React_Online_Project/%20/index.html",
+    "main.94d07cd8.css.map": "/React_Online_Project/%20/static/css/main.94d07cd8.css.map",
+    "main.f00f9f54.js.map": "/React_Online_Project/%20/static/js/main.f00f9f54.js.map",
+    "787.dd71c71f.chunk.js.map": "/React_Online_Project/%20/static/js/787.dd71c71f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94d07cd8.css",
-    "static/js/main.019491d7.js"
+    "static/js/main.f00f9f54.js"
   ]
 }
